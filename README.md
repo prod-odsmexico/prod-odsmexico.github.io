@@ -1,1 +1,0 @@
-# prod-odsmexico.github.oi
